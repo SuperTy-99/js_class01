@@ -1,2 +1,3 @@
 # js_class01
-Hello World
+Hello World!
+:) 
